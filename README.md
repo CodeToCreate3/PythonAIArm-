@@ -12,10 +12,10 @@ This 7-day intensive Python bootcamp is designed to help attendees refresh their
 ✅ Capstone Projects – Advanced projects for practical application.
 
 Bootcamp Schedule:
-1️⃣ Python Refresher & Advanced Concepts – Task Manager using OOP
-2️⃣ Data Structures & Algorithms – Coding Challenges
-3️⃣ Intro to AI & ML – Spam Email Classifier
-4️⃣ Neural Networks & Deep Learning – Handwritten Digit Recognizer
-5️⃣ ARM Development Basics – GPIO Control on Raspberry Pi
-6️⃣ Advanced ARM & Optimization – Deploying AI on ARM
-7️⃣ Final Projects & Showcase – AI-powered chatbot, Smart Home Automation, or Embedded Vision
+1️⃣Python Refresher & Advanced Concepts – Task Manager using OOP
+2️⃣Data Structures & Algorithms – Coding Challenges
+3️⃣Intro to AI & ML – Spam Email Classifier
+4️⃣Neural Networks & Deep Learning – Handwritten Digit Recognizer
+5️⃣ARM Development Basics – GPIO Control on Raspberry Pi
+6️⃣Advanced ARM & Optimization – Deploying AI on ARM
+7️⃣Final Projects & Showcase – AI-powered chatbot, Smart Home Automation, or Embedded Vision
